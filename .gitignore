@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 個人與機密（勿入版控）
+env.sh
+
+# 競賽產物
+replays/
+logs/
+data/
+submission.tar.gz
+
+# 建置與執行產物
+dist/
+reports/
